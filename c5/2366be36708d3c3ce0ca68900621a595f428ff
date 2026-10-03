@@ -1,0 +1,23 @@
+contracts/extensions/trust-class-map.v1.json
+  s_21ac26fb8b7c74::t_6a63d9d06baa99 100
+contributions/command-sources/command.snoboard.json
+  s_21ac26fb8b7c74::t_0a79094c0ffef9 1-652
+tests/fixtures/command-source-snoboard.v1.json
+  s_21ac26fb8b7c74::t_78681c4cf826c3 1-11171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c52366be36708d3c3ce0ca68900621a595f428ff",
+  "prompts": {},
+  "sessions": {
+    "s_21ac26fb8b7c74": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ae7a2266-eece-455d-9eee-d7ef9a83c2cd",
+        "model": "composer-2.5"
+      },
+      "human_author": "sno <serrnovik@gmail.com>"
+    }
+  }
+}
